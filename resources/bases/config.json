@@ -1,0 +1,21 @@
+{
+	"type": "Collection",
+	"properties": {
+		"organisation": {
+			"name": "organisation",
+			"type": "number",
+			"typeLabel": "number",
+			"required": true,
+			"id": "organisation",
+			"order": 0
+		},
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "name",
+			"order": 1
+		}
+	}
+}
